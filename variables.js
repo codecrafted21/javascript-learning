@@ -8,5 +8,5 @@
  console.log(typeof greet)
 
 
- let happy = new string ("HAPPY ")
+ let happy = new string ("HAPPY ");
 console.log(happy)
